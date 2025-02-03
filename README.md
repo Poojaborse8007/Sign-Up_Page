@@ -1,0 +1,1 @@
+This is a simple signup page built using HTML, CSS, and JavaScript. The page allows users to enter their details such as username and password, with basic form validation. The page does not include backend functionality but can be easily integrated with a server-side system for handling user registration.
